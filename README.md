@@ -1,5 +1,5 @@
 # music-name-cleaner
-Simple python script to remove album and artist name from music file names
+Simple python script to remove album and artist name from music files name
 
 **An example of script work:** Radiohead - No Surprises - 01-01 No Surprises.mp3 ---> 01-01 No Surprises.mp3
 
